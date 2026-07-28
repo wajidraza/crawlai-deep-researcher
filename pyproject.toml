@@ -1,0 +1,7 @@
+[project]
+name = "crawlai-deep-researcher"
+version = "1.0.0"
+description = "Autonomous recursive web research agent that explores dynamic web domains, synthesizes citations, and compiles comprehensive Markdown reports."
+authors = [{name = "Wajid Raza", email = "wajidrazapk@outlook.com"}]
+readme = "README.md"
+requires-python = ">=3.9"
