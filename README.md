@@ -5,7 +5,6 @@
 [![Architecture](https://img.shields.io/badge/Architecture-Clean%20Microservices-blue.svg?style=flat-square)](#)
 [![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Python%203.12%20%7C%20Playwright%20%7C%20Claude%203.5%20Sonnet%20%7C%20Beautiful%20Soup%204%20%7C%20FastAPI-gold.svg?style=flat-square)](#)
 [![Release Era](https://img.shields.io/badge/Era-2026%20Engineering-orange.svg?style=flat-square)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 
 ---
 
@@ -76,6 +75,3 @@ npm test     # or pytest / go test -v ./...
 - **Email**: [wajidrazapk@outlook.com](mailto:wajidrazapk@outlook.com)  
 - **GitHub**: [@wajidraza](https://github.com/wajidraza)  
 
----
-
-*Licensed under the [MIT License](LICENSE).*
